@@ -1,0 +1,15 @@
+{
+  "name": "recompose-playground",
+  "version": "1.0.0",
+  "description": "Playground to learn all things recompose has to offer",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@hocs/with-lifecycle": "0.5.1",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "react-redux": "8.0.2",
+    "recompose": "0.23.4",
+    "redux": "4.2.0"
+  }
+}
